@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     color: white;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(36, 39, 56);
     display: flex;
     align-items: center;
     height: 100vh;
@@ -79,3 +79,4 @@ body{
     color: rgb(89, 230, 136);
 
 }
+
